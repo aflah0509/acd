@@ -14,14 +14,13 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm swalih sins
-cta-button-1: video call 500
+-- hero-1.hero-1: I'm Aflah Parakkal
+cta-button-1: About me
 link-1: https://www.resume.com/
-cta-button-2: fans only
+cta-button-2: resume
 link-2: https://calendly.com/
 cover: $assets.files.assets.001.jpg
 
-professional kuntan call every time no free service trail is available you can contact directly .
 
 
 -- end: lib.page
