@@ -383,7 +383,7 @@ border-bottom-width.px: 2
 src: $footer.icon-1
 height.fixed.px: 32
 width.fixed.px: 32
-link: $footer.url-1
+link: www.linkedin.com/in/aflahparakkal
 
 -- ftd.image:
 src: $footer.icon-2
